@@ -18,4 +18,4 @@
 ### Ejercicios
 - [Ejercicios Sesión 1](Ejercicios.sql)
 
-[`Anterior`](../Readme.md) | [`Siguiente`](../Sesion-02/Readme.md)
+[`Anterior`](../README.md) | [`Siguiente`](../Sesion-02/README.md)

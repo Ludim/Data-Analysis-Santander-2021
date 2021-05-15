@@ -28,4 +28,4 @@ https://drive.google.com/open?id=18kYvknY5n087piu3vrz9mnA-4Exif0gK
  - Sesión 7: Junio 1, 2021
  - Sesión 8: Junio 3, 2021
  
-[`Siguiente`](Sesion-01/Readme.md)
+[`Siguiente`](Sesion-01/README.md)

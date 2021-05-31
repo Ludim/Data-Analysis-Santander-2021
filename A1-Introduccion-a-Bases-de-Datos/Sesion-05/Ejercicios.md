@@ -75,7 +75,7 @@ Todas las consultas que realices deberás mantenerlas dentro del MongoDB Compass
         {class_id: 465}
       ]
     }
-  ```
+    ```
   ![imagen](evidences/practices/6.PNG)
 
 7. Obtén todas las compañías fundadas en octubre del 2008.

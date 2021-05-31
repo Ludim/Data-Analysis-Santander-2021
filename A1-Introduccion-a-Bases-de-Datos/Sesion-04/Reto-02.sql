@@ -36,11 +36,13 @@ SELECT COUNT(*) FROM ratings;
 # total = 1000209
 
 /* 3. Finalmente, añade un registro en cada tabla usando INSERT INTO. */
-INSERT INTO users(id,genero,edad,ocup,cp) VALUES (6041,'F', 25, 17, 61614);
-SELECT * FROM users WHERE id=6041;
+INSERT INTO users(id,genero,edad,ocup,cp) VALUES (6042,'F', 25, 17, 61614);
+SELECT * FROM users WHERE id=6042;
 
 INSERT INTO movies(id,titulo,genero) VALUES (3953,'Mulan', 'Children\'s');
 SELECT * FROM users WHERE id=3953;
 
 -- Si añadiste llaves foráneas, recuerda que debes añadir primero los registros en las tablas users y movies.
-INSERT INTO ratings(user_id,movie_id,rating,time_stamp) VALUES (6041,3953,5,978300760);
+INSERT INTO ratings(user_id,movie_id,rating,time_stamp) VALUES (6042,3953,5,978300760);
+SELECT * FROM ratings WHERE user_id=6042;
+

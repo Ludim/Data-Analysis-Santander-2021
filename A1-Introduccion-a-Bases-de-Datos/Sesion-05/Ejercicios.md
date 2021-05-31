@@ -155,5 +155,4 @@ Todas las consultas que realices deberás mantenerlas dentro del MongoDB Compass
   * Limitar a 1
   ![imagen](evidences/practices/13.PNG)
 
-[`Anterior`](Reto-02.md) | [`Siguiente`](README.md)
-
+[`Anterior`](Reto-02.md) | [`Siguiente`](../Sesion-06/README.md)

@@ -70,3 +70,5 @@ Modificar el documento con id=4001 en la Colección movies para que contenga la 
 
 Luego de presionar el botón INSERT la lista de los dos documentos deberá de ser la siguiente:
 El resultado final se puede ver en [Ejercicios.PNG](evidences/Ejercicios.PNG)
+
+[`Anterior`](Reto-03.md) | [`Siguiente`](../Sesion-05/README.md)

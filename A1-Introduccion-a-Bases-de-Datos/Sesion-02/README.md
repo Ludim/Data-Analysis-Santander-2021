@@ -1,4 +1,4 @@
-[`Introducción a Bases de Datos`](../README.md) > `Sesión 1`
+[`Introducción a Bases de Datos`](../README.md) > `Sesión 2`
 
 ## Sesión 2: Agrupaciones y subconsultas
 

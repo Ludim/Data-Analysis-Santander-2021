@@ -1,4 +1,4 @@
-[`Introducción a Bases de Datos`](../../README.md) > [`Sesión 06`](../Readme.md) > `Reto 1`
+[`Introducción a Bases de Datos`](../README.md) > [`Sesión 06`](README.md) > `Reto 1`
     
 ## Reto 1: Expresiones regulares
 

@@ -1,4 +1,4 @@
-[`Introducción a Bases de Datos`](../../REAMDE.md) > [`Sesión 06`](../Readme.md) > `Ejercicios`
+[`Introducción a Bases de Datos`](../REAMDE.md) > [`Sesión 06`](README.md) > `Ejercicios`
     
 ## Ejercicios Sesión 6
 

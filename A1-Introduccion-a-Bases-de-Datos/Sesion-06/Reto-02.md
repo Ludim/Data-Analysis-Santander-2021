@@ -1,4 +1,4 @@
-[`Introducción a Bases de Datos`](../../README.md) > [`Sesión 06`](../Readme.md) > `Reto 2`
+[`Introducción a Bases de Datos`](../README.md) > [`Sesión 06`](README.md) > `Reto 2`
     
 ## Reto 2: Notación punto y arreglos
 
